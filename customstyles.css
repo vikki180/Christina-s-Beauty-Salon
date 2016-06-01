@@ -1,3 +1,130 @@
 h1{
 	color:red;
 }
+
+.page-title{
+    text-align:center!important;
+}
+.logo{
+    padding-left:30%;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+.home-page-img{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub-categories{
+    text-align:center;
+}
+
+.home-page-btns{
+    margin-left:25%;
+    padding-top:15px;
+
+}
+
+
+  
+
+    .carousel-img {
+        width: 1150px;
+        height: 500px !important;
+}
+
+    #carousel > .col-xs-12 {
+        padding: 0;
+}
+
+/*-------Styles for contact us page-------*/
+.section1 {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/*.section2 {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width:85%;
+}*/
+
+iframe {
+    width: 317px;
+    height: 225px;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+/*.tablecenter {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+
+/*closetime {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150%;
+}*/
+
+#closedPosition {
+    width: 25%;
+    padding-left: 23%;
+}
+
+/*Styles for products page*/
+.products-img {
+    float: left;
+    margin-right: 5px;
+    width: 74px;
+    height: 60px;
+}
+.products-title{
+    font-weight:bold;
+}
+
+
+/*Styles for services page*/
+.service-title{
+    font-weight:bold;
+}
+
+
+
+/*Styles for About Us page*/
+.about{
+    margin-left:50px;
+    margin-right: 50px;
+}
+.team-photo{
+    width:350px;
+    height:170px;
+}
+.individual-photo{
+    width:200px;
+    height:200px;
+}
+
+.for-home{
+    width: 200px;
+    height:150px;
+    margin-left: 80px;
+}
+.homeP{
+    margin-left: 125px;
+    margin-top:10px;
+}
+
+
