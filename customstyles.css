@@ -1,9 +1,6 @@
-h1{
-	color:red;
-}
 
 .page-title{
-    text-align:center!important;
+    text-align:center;
 }
 .logo{
     padding-left:30%;
@@ -28,13 +25,13 @@ h1{
 
   
 
-    .carousel-img {
-        width: 1150px;
-        height: 500px !important;
+.carousel-img {
+    width: 1150px;
+    height: 500px !important;
 }
 
-    #carousel > .col-xs-12 {
-        padding: 0;
+#carousel > .col-xs-12 {
+    padding: 0;
 }
 
 /*-------Styles for contact us page-------*/
