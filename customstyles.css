@@ -45,11 +45,22 @@
 
 }
 
-@media(max-width:780px){
+@media(max-width:1203px) and (min-width: 768px){
+    .for-home{
+        margin-left:20px!important;
+    }
 
 }
 
+@media(max-width:759px) and (min-width: 370px){
+    .for-home{
+        margin-left:33%!important;
+    }
+    .homeP{
+        margin-left: 40%!important;
+    }
 
+}
 
 .home-page-img{
      display: block;
