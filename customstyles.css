@@ -16,7 +16,7 @@
 */
 
 .brand-img{
-    width:100%;
+    width:150px;
     height:auto;
 }
 
@@ -31,6 +31,9 @@
         width:130px;
         height:auto;
     }
+    .logo{
+        margin-top: 40px;
+    }
 }
 
 @media (max-width:1200px){
@@ -39,7 +42,14 @@
         width:135px;
         height:auto;
     }
+
 }
+
+@media(max-width:780px){
+
+}
+
+
 
 .home-page-img{
      display: block;
@@ -51,8 +61,7 @@
 }
 
 .home-page-btns{
-    margin-left:25%;
-    padding-top:15px;
+    
 
 }
 
@@ -153,7 +162,8 @@ iframe {
 .for-home{
     width: 200px;
     height:150px;
-    margin-left: 80px;
+    margin:10px;
+    margin-left:80px;
 }
 .homeP{
     margin-left: 125px;
@@ -161,3 +171,6 @@ iframe {
 }
 
 
+.subtitle{
+    text-align: center;
+}
