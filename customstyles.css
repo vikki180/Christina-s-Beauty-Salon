@@ -196,4 +196,14 @@
 #CBSFooter {
 	font-size: 12px;
 }
-	
+
+/*Styles for hours of operation days of week*/
+.DOW {
+	text-align: left; 
+	width: 50%;
+}
+
+.HoO {
+	text-align: right;
+	width: 100px;
+}
