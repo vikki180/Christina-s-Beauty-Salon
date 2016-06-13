@@ -191,3 +191,9 @@
 .subtitle{
     text-align: center;
 }
+
+/*Styles for footer*/
+#CBSFooter {
+	font-size: 12px;
+}
+	
