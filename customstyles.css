@@ -107,14 +107,20 @@
     width:85%;
 }*/
 
-iframe {
-    width: 317px;
-    height: 225px;
+.google-map {
+    width:317px;
+    height:225px;
     right: 0;
     left: 0;
     margin-right: auto;
     margin-left: auto;
     margin-top: 50px;
+}
+@media only screen and (max-width: 986px) {
+    .google-map {
+        width:200px;
+		height:auto;
+    }
 }
 
 /*.tablecenter {
@@ -184,4 +190,20 @@ iframe {
 
 .subtitle{
     text-align: center;
+}
+
+/*Styles for footer*/
+#CBSFooter {
+	font-size: 12px;
+}
+
+/*Styles for hours of operation days of week*/
+.DOW {
+	text-align: left; 
+	width: 50%;
+}
+
+.HoO {
+	text-align: right;
+	width: 100px;
 }

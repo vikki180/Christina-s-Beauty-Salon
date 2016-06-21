@@ -1,8 +1,5 @@
  document.getElementById("CBSFooter").innerHTML =
-      "<hr><p>&copy; Christina's Beauty Salon <br />Designed by Business Tech Solutions " 
-      	+ new Date().getFullYear() + 
-      "<br />573-445-5321</p>";
-
+      "<hr><p>Copyright &copy; " + new Date().getFullYear() + " Christina's Beauty Salon | Designed by Business Tech  Solutions | Phone: (573) 445 - 5321</p>";
 
       $(window).scroll(function() {
 
