@@ -143,6 +143,10 @@
     padding-left: 23%;
 }
 
+.email {
+	font-size: 20px;
+}
+
 /*Styles for products page*/
 .products-img {
     float: left;
