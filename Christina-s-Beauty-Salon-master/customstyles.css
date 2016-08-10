@@ -1,0 +1,212 @@
+
+.page-title{
+    text-align:center;
+}
+.logo{
+   width:100%;
+   height:auto;
+}
+/*
+.navbar-brand>img{
+    max-height:100%;
+    height:100%;
+    max-width:auto;
+    margin-top:0;
+}
+*/
+
+.brand-img{
+    width:150px;
+    height:auto;
+}
+
+@media (max-width: 767px){
+    .brand-img{
+        display: none!important;
+    }
+}
+@media (max-width:1000px){
+    .brand-img
+    {
+        width:130px;
+        height:auto;
+    }
+    .logo{
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:1200px){
+    .brand-img
+    {
+        width:135px;
+        height:auto;
+    }
+
+}
+
+@media(max-width:1203px) and (min-width: 768px){
+    .for-home{
+        margin-left:20px!important;
+    }
+
+}
+
+@media(max-width:759px) and (min-width: 370px){
+    .for-home{
+        margin-left:33%!important;
+    }
+    .homeP{
+        margin-left: 40%!important;
+    }
+
+}
+
+.home-page-img{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub-categories{
+    text-align:center;
+}
+
+.home-page-btns{
+    
+
+}
+
+
+  .navbar-brand{
+    padding-top: 0px;
+  }
+
+.carousel-img {
+    width: 1150px;
+    height: 500px !important;
+}
+
+#carousel > .col-xs-12 {
+    padding: 0;
+}
+
+/*-------Styles for contact us page-------*/
+.section1 {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/*.section2 {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width:85%;
+}*/
+
+.google-map {
+    width:317px;
+    height:225px;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+@media only screen and (max-width: 986px) {
+    .google-map {
+        width:200px;
+		height:auto;
+    }
+}
+
+/*.tablecenter {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+
+/*closetime {
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150%;
+}*/
+
+#closedPosition {
+    width: 25%;
+    padding-left: 23%;
+}
+
+.email {
+	font-size: 20px;
+}
+
+/*Styles for products page*/
+.products-img {
+    float: left;
+    margin-right: 5px;
+    width: 74px;
+    height: 60px;
+}
+.products-title{
+    font-weight:bold;
+}
+
+
+/*Styles for services page*/
+.service-title{
+    font-weight:bold;
+}
+
+
+
+/*Styles for About Us page*/
+.about{
+    margin-left:50px;
+    margin-right: 50px;
+}
+.team-photo{
+    width:350px;
+    height:170px;
+}
+.individual-photo{
+    width:200px;
+    height:200px;
+}
+
+.for-home{
+    width: 200px;
+    height:150px;
+    margin:10px;
+    margin-left:80px;
+}
+.homeP{
+    margin-left: 125px;
+    margin-top:10px;
+}
+
+
+.subtitle{
+    text-align: center;
+}
+
+/*Styles for footer*/
+#CBSFooter {
+	font-size: 12px;
+}
+
+/*Styles for hours of operation days of week*/
+.DOW {
+	text-align: left; 
+	width: 50%;
+}
+
+.HoO {
+	width: 100px;
+}
